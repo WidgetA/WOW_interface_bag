@@ -1,0 +1,23 @@
+{
+    "addonsMap": [
+        "BagBrother",
+        "Bagnon",
+        "Bagnon_Config",
+        "Bagnon_VoidStorage",
+        "Bagnon_GuildBank"
+    ],
+    "interfaceMap": [],
+    "children": [
+        "BagBrother",
+        "Bagnon_Config",
+        "Bagnon_VoidStorage",
+        "Bagnon_GuildBank"
+    ],
+    "localName": "Bagnon",
+    "searchName": "Bagnon",
+    "name": "Bagnon",
+    "fileName": "bagnon",
+    "target": "curse",
+    "version": "8.2.9",
+    "gameVersion": ""
+}
